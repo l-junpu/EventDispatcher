@@ -38,3 +38,5 @@
 #include <filesystem>
 #include <type_traits>
 #include <condition_variable>
+
+#include "../Dependencies/xxHash/include/xxhash.hpp"
